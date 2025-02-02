@@ -12,16 +12,16 @@ Despite implementing a somewhat efficient solution, I encountered some minor ina
 
 
 1 Thread:
-![[Pasted image 20250201180332.png]](https://github.com/molarmuaz/parallel-distributed-computing-task/blob/main/img/Pasted%20image%20250201180332.png)
+![[Pasted image 20250201180332.png]](https://github.com/molarmuaz/parallel-distributed-computing-task/blob/main/img/Pasted%20image%2020250201180332.png)
 
 2 Threads:
-![[Pasted image 20250201173737.png]](https://github.com/molarmuaz/parallel-distributed-computing-task/blob/main/img/Pasted%20image%20250201173737.png)
+![[Pasted image 20250201173737.png]](https://github.com/molarmuaz/parallel-distributed-computing-task/blob/main/img/Pasted%20image%2020250201173737.png)
 
 4 Threads:
 ![[Pasted image 20250201173235.png]](https://github.com/molarmuaz/parallel-distributed-computing-task/blob/main/img/Pasted%20image%2020250201173235.png)
 
 8 Threads:
-![[Pasted image 20250201174523.png]](https://github.com/molarmuaz/parallel-distributed-computing-task/blob/main/img/Pasted%20image%20250201174523.png)
+![[Pasted image 20250201174523.png]](https://github.com/molarmuaz/parallel-distributed-computing-task/blob/main/img/Pasted%20image%2020250201174523.png)
 
 16 Threads:
-![[Pasted image 20250201174752.png]](https://github.com/molarmuaz/parallel-distributed-computing-task/blob/main/img/Pasted%20image%20250201174752.png)
+![[Pasted image 20250201174752.png]](https://github.com/molarmuaz/parallel-distributed-computing-task/blob/main/img/Pasted%20image%2020250201174752.png)
